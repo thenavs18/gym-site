@@ -1,3 +1,3 @@
 # gym-site
 check out my gym site at:
-https://github.com/thenavs18/gym-site.git
+ https://thenavs18.github.io/gym-site/
